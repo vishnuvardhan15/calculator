@@ -14,8 +14,8 @@ body{
     background-color: black;
 }
 #main{
-    width: 37%;
-    height: 100%;
+    width: 388px;
+    height: 567px;
     background-color:#FFFFFF;
     display: flex;
     align-items: center;
