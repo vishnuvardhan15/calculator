@@ -39,6 +39,8 @@ body{
     width: 80%;
     height:17%;
     padding: 0px 10px;
+    overflow: scroll;
+    
 }
 #btnBox{
     width: 80%;
@@ -71,4 +73,7 @@ body{
     color: #dc385f;
     font-family: 'Handjet',cursive;
     font-weight: 700;
+}
+#display::-webkit-scrollbar {
+  display: none;
 }
